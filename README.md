@@ -1,9 +1,9 @@
 # DisplayDashApp for iOS
-DisplayDash Navigator App for iOS
+DisplayDashApp for iOS provides navigation functionality by calculating routes and communicating key navigation information to the DisplayDash 3.0 device using Bluetooth Low Energy (BLE)
 
-## DisplayDash 3.0 iOS Application BLE Documentation
+## BLE Documentation
 
-DisplayDashApp for iOS provides navigation functionality by calculating routes and communicating key navigation information to the DisplayDash 3.0 device using Bluetooth Low Energy (BLE). This section outlines the BLE services and characteristics used in the application, along with the expected data format for communication.
+This section outlines the BLE services and characteristics used in the application, along with the expected data format for communication.
 
 ### BLE Service and Characteristics
 
