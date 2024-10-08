@@ -1,0 +1,30 @@
+
+
+LICENSE ADDENDUM
+
+Product Name: DisplayDash
+Company: SASU PLC TECH ENERGY
+
+This License Addendum is an additional set of terms and conditions for the use of the source code related to the DisplayDash product. These terms are supplementary to the primary license applied to the source code (Apache 2.0 License) and must be followed in conjunction with the primary license.
+
+1. **Usage Limitation**  
+   The source code provided under the primary license may only be used in connection with the DisplayDash product developed and sold by SASU PLC TECH ENERGY.  
+   Any use of the code, whether modified or unmodified, with other products, devices, or competitors' hardware is strictly prohibited unless explicitly authorized in writing by SASU PLC TECH ENERGY.
+
+2. **Modification and Redistribution**  
+   Users of the DisplayDash product are allowed to modify the DisplayDashApp for iOS source code for personal or business purposes, provided that the code remains in use solely with the DisplayDash product.  
+   Redistribution of modified or unmodified versions of the source code must retain this License Addendum and the primary license, and must also restrict the use to the DisplayDash product exclusively.
+
+3. **Prohibited Uses**  
+   The source code, in whole or in part, may not be used to develop, integrate, or support any hardware or software that competes with DisplayDash or any other product by SASU PLC TECH ENERGY.  
+   Any use of the source code outside of the DisplayDash ecosystem without prior written permission from SASU PLC TECH ENERGY is a violation of this License Addendum.
+
+4. **Legal Enforcement**  
+   SASU PLC TECH ENERGY reserves the right to take legal action against any party that violates these terms, including unauthorized use of the source code with non-DisplayDash products.
+
+By using or modifying the source code, you agree to the terms outlined in both the primary license and this License Addendum. Failure to comply with these terms may result in the termination of the rights granted by the primary license.
+
+For further inquiries or to request permission for other uses, please contact:
+
+SASU PLC TECH ENERGY  
+contact@displaydah.eu
