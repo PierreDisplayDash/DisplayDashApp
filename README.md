@@ -42,4 +42,4 @@ The iOS app can write data to the defined characteristics to send navigation inf
   ```swift
   let nextStreetUUID = CBUUID(string: "beb5483e-36e1-4688-b7f5-ea07361b26a8")
   let nextStreetData = "Main Street"
-  peripheral.writeValue(nextStreetData.data(using: .utf8)!, for: nextStreetCharacteristic, type: .withResponse)```
+  peripheral.writeValue(nextStreetData.data(using: .utf8)!, for: nextStreetCharacteristic, type: .withResponse)
